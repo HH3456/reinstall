@@ -3,7 +3,7 @@ mode con cp select=437 >nul
 setlocal EnableDelayedExpansion
 
 set confhome=https://raw.githubusercontent.com/bin456789/reinstall/main
-set github_proxy=https://mirror.ghproxy.com/https://raw.githubusercontent.com
+set github_proxy=https://gh.idayer.com/https://raw.githubusercontent.com
 
 rem 65001 代码页会乱码
 
